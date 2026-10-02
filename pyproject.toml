@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seqAlign"
+version = "1.1.0"
+description = "Pairwise and all-vs-all global sequence alignment (protein / DNA) reporting percent identity and similarity, with themed heatmaps"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["bioinformatics", "sequence alignment", "identity", "similarity", "heatmap", "BLOSUM", "PAM"]
+dependencies = [
+    "numpy>=1.21",
+    "matplotlib>=3.5",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+seqalign = "seqalign.cli:main"
+seqAlign = "seqalign.cli:main"
+
+[tool.setuptools]
+packages = ["seqalign"]
+
+[tool.setuptools.package-data]
+seqalign = ["data/matrices/*.mat"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

@@ -1,0 +1,630 @@
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+88.9% identity; 88.9% similarity	'GA' score: 4020.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+89.7% identity; 89.7% similarity	'GA' score: 4092.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+90.3% identity; 90.3% similarity	'GA' score: 4146.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+83.3% identity; 83.3% similarity	'GA' score: 3516.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+77.2% identity; 77.2% similarity	'GA' score: 2958.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+77.4% identity; 77.4% similarity	'GA' score: 2976.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+71.9% identity; 71.9% similarity	'GA' score: 2469.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.2% identity; 69.2% similarity	'GA' score: 2185.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.0% identity; 63.0% similarity	'GA' score: 1595.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.5% identity; 66.5% similarity	'GA' score: 1930.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.2% identity; 68.2% similarity	'GA' score: 2101.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.8% identity; 67.8% similarity	'GA' score: 2072.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.5% identity; 64.5% similarity	'GA' score: 1729.0
+
+Homo_sapiens GAPDH CDS ENA:AAA86283.1 (UniProt:P04406) OS=Ho   1008 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+57.7% identity; 57.7% similarity	'GA' score: 1077.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+95.0% identity; 95.0% similarity	'GA' score: 4560.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+90.2% identity; 90.2% similarity	'GA' score: 4128.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+84.4% identity; 84.4% similarity	'GA' score: 3606.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.7% identity; 79.7% similarity	'GA' score: 3183.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+78.0% identity; 78.0% similarity	'GA' score: 3030.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+73.2% identity; 73.2% similarity	'GA' score: 2577.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.5% identity; 69.5% similarity	'GA' score: 2211.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.0% identity; 65.0% similarity	'GA' score: 1779.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.3% identity; 67.3% similarity	'GA' score: 1968.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.5% identity; 68.5% similarity	'GA' score: 2080.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.3% identity; 67.3% similarity	'GA' score: 2026.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.5% identity; 65.5% similarity	'GA' score: 1822.0
+
+Mus_musculus Gapdh CDS ENA:AAA37659.1 (UniProt:P16858) OS=Mu   1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+58.8% identity; 58.8% similarity	'GA' score: 1163.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+90.4% identity; 90.4% similarity	'GA' score: 4146.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+85.5% identity; 85.5% similarity	'GA' score: 3705.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.5% identity; 79.5% similarity	'GA' score: 3165.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.1% identity; 79.1% similarity	'GA' score: 3129.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+73.1% identity; 73.1% similarity	'GA' score: 2568.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.6% identity; 69.6% similarity	'GA' score: 2243.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.9% identity; 63.9% similarity	'GA' score: 1703.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.5% identity; 67.5% similarity	'GA' score: 2002.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.8% identity; 67.8% similarity	'GA' score: 2042.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.4% identity; 67.4% similarity	'GA' score: 2030.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.6% identity; 65.6% similarity	'GA' score: 1815.0
+
+Rattus_norvegicus Gapdh CDS ENA:AAA41193.1 (UniProt:P04797)    1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+58.9% identity; 58.9% similarity	'GA' score: 1179.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+83.9% identity; 83.9% similarity	'GA' score: 3561.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+78.4% identity; 78.4% similarity	'GA' score: 3066.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+78.8% identity; 78.8% similarity	'GA' score: 3102.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+73.5% identity; 73.5% similarity	'GA' score: 2604.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.7% identity; 68.7% similarity	'GA' score: 2144.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.1% identity; 63.1% similarity	'GA' score: 1651.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.8% identity; 66.8% similarity	'GA' score: 1923.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.2% identity; 68.2% similarity	'GA' score: 2071.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.6% identity; 67.6% similarity	'GA' score: 2041.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.6% identity; 65.6% similarity	'GA' score: 1813.0
+
+Bos_taurus GAPDH CDS ENA:AAI02590.1 (UniProt:P10096) OS=Bos    1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+57.5% identity; 57.5% similarity	'GA' score: 1053.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.8% identity; 79.8% similarity	'GA' score: 3192.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+80.3% identity; 80.3% similarity	'GA' score: 3237.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+72.4% identity; 72.4% similarity	'GA' score: 2505.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.5% identity; 69.5% similarity	'GA' score: 2222.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.6% identity; 64.6% similarity	'GA' score: 1803.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.1% identity; 68.1% similarity	'GA' score: 2044.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.5% identity; 68.5% similarity	'GA' score: 2062.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.0% identity; 68.0% similarity	'GA' score: 2083.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.8% identity; 64.8% similarity	'GA' score: 1731.0
+
+Gallus_gallus GAPDH CDS ENA:AAD02474.1 (UniProt:P00356) OS=G   1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+58.1% identity; 58.1% similarity	'GA' score: 1073.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+76.7% identity; 76.7% similarity	'GA' score: 2913.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+70.4% identity; 70.4% similarity	'GA' score: 2325.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.5% identity; 69.5% similarity	'GA' score: 2253.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.3% identity; 63.3% similarity	'GA' score: 1631.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.6% identity; 67.6% similarity	'GA' score: 2004.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.2% identity; 67.2% similarity	'GA' score: 2011.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.4% identity; 67.4% similarity	'GA' score: 2024.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.5% identity; 65.5% similarity	'GA' score: 1794.0
+
+Xenopus_laevis gapdh CDS ENA:AAA84422.1 (UniProt:P51469) OS=   1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+57.2% identity; 57.2% similarity	'GA' score: 1050.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+70.4% identity; 70.4% similarity	'GA' score: 2313.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.7% identity; 68.7% similarity	'GA' score: 2150.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.3% identity; 64.3% similarity	'GA' score: 1744.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.7% identity; 66.7% similarity	'GA' score: 1948.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.6% identity; 69.6% similarity	'GA' score: 2227.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+68.3% identity; 68.3% similarity	'GA' score: 2129.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.4% identity; 66.4% similarity	'GA' score: 1898.0
+
+Danio_rerio gapdh CDS ENA:AAH83506.2 (UniProt:Q5XJ10) OS=Dan   1002 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+57.6% identity; 57.6% similarity	'GA' score: 1109.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+69.7% identity; 69.7% similarity	'GA' score: 2228.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.9% identity; 63.9% similarity	'GA' score: 1709.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.8% identity; 65.8% similarity	'GA' score: 1852.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.0% identity; 67.0% similarity	'GA' score: 1995.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+67.3% identity; 67.3% similarity	'GA' score: 2034.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.4% identity; 66.4% similarity	'GA' score: 1849.0
+
+Drosophila_melanogaster Gapdh1 CDS ENA:AAL90381.1 (UniProt:P    999 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+57.0% identity; 57.0% similarity	'GA' score: 1031.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.6% identity; 64.6% similarity	'GA' score: 1775.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.1% identity; 65.1% similarity	'GA' score: 1825.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.5% identity; 64.5% similarity	'GA' score: 1795.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+65.0% identity; 65.0% similarity	'GA' score: 1840.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.3% identity; 63.3% similarity	'GA' score: 1609.0
+
+Caenorhabditis_elegans gpd-1 CDS ENA:CAA36900.1 (UniProt:P04   1026 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+58.0% identity; 58.0% similarity	'GA' score: 1067.0
+
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA vs.
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.2% identity; 66.2% similarity	'GA' score: 1951.0
+
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.0% identity; 63.0% similarity	'GA' score: 1636.0
+
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+64.1% identity; 64.1% similarity	'GA' score: 1723.0
+
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+66.3% identity; 66.3% similarity	'GA' score: 1914.0
+
+Saccharomyces_cerevisiae TDH2 CDS ENA:CAA42725.1 (UniProt:P0    999 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+58.8% identity; 58.8% similarity	'GA' score: 1193.0
+
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA vs.
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.5% identity; 79.5% similarity	'GA' score: 3195.0
+
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+79.1% identity; 79.1% similarity	'GA' score: 3159.0
+
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.1% identity; 63.1% similarity	'GA' score: 1563.0
+
+Arabidopsis_thaliana GAPC1 CDS ENA:AAK97737.1 (UniProt:P2585   1017 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+56.7% identity; 56.7% similarity	'GA' score: 950.0
+
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA vs.
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+88.3% identity; 88.3% similarity	'GA' score: 3999.0
+
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+62.3% identity; 62.3% similarity	'GA' score: 1471.0
+
+Oryza_sativa GAPC1 CDS ENA:ABL74559.1 (UniProt:Q0J8A4) OS=Or   1014 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+56.5% identity; 56.5% similarity	'GA' score: 898.0
+
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA vs.
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.5% identity; 63.5% similarity	'GA' score: 1590.0
+
+Zea_mays GAPC1 CDS ENA:CAA33620.1 (UniProt:P08735) OS=Zea ma   1014 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+56.2% identity; 56.2% similarity	'GA' score: 921.0
+
+Escherichia_coli gapA CDS ENA:CAA26498.1 (UniProt:P0A9B2) OS    996 DNA vs.
+Bacillus_subtilis gapA CDS ENA:CAA31434.1 (UniProt:P09124) O   1008 DNA
+scoring: NUC.4.4, gap penalties: 16/4, engine: gotoh-affine
+
+63.4% identity; 63.4% similarity	'GA' score: 1689.0
+

@@ -1,0 +1,16 @@
+label	organism	taxon_id	gene	uniprot	protein_name	protein_length	cds_protein_id	cds_source	cds_length
+Homo_sapiens	Homo sapiens	9606	GAPDH	P04406	Glyceraldehyde-3-phosphate dehydrogenase	335	AAA86283.1	ENA	1008
+Mus_musculus	Mus musculus	10090	Gapdh	P16858	Glyceraldehyde-3-phosphate dehydrogenase	333	AAA37659.1	ENA	1002
+Rattus_norvegicus	Rattus norvegicus	10116	Gapdh	P04797	Glyceraldehyde-3-phosphate dehydrogenase	333	AAA41193.1	ENA	1002
+Bos_taurus	Bos taurus	9913	GAPDH	P10096	Glyceraldehyde-3-phosphate dehydrogenase	333	AAI02590.1	ENA	1002
+Gallus_gallus	Gallus gallus	9031	GAPDH	P00356	Glyceraldehyde-3-phosphate dehydrogenase	333	AAD02474.1	ENA	1002
+Xenopus_laevis	Xenopus laevis	8355	gapdh	P51469	Glyceraldehyde-3-phosphate dehydrogenase	333	AAA84422.1	ENA	1002
+Danio_rerio	Danio rerio	7955	gapdh	Q5XJ10	Glyceraldehyde-3-phosphate dehydrogenase	333	AAH83506.2	ENA	1002
+Drosophila_melanogaster	Drosophila melanogaster	7227	Gapdh1	P07486	Glyceraldehyde-3-phosphate dehydrogenase 1	332	AAL90381.1	ENA	999
+Caenorhabditis_elegans	Caenorhabditis elegans	6239	gpd-1	P04970	Glyceraldehyde-3-phosphate dehydrogenase 1	341	CAA36900.1	ENA	1026
+Saccharomyces_cerevisiae	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	559292	TDH2	P00358	Glyceraldehyde-3-phosphate dehydrogenase 2	332	CAA42725.1	ENA	999
+Arabidopsis_thaliana	Arabidopsis thaliana	3702	GAPC1	P25858	Glyceraldehyde-3-phosphate dehydrogenase GAPC1, cytosolic	338	AAK97737.1	ENA	1017
+Oryza_sativa	Oryza sativa subsp. japonica	39947	GAPC1	Q0J8A4	Glyceraldehyde-3-phosphate dehydrogenase 1, cytosolic	337	ABL74559.1	ENA	1014
+Zea_mays	Zea mays	4577	GAPC1	P08735	Glyceraldehyde-3-phosphate dehydrogenase 1, cytosolic	337	CAA33620.1	ENA	1014
+Escherichia_coli	Escherichia coli (strain K12)	83333	gapA	P0A9B2	Glyceraldehyde-3-phosphate dehydrogenase A	331	CAA26498.1	ENA	996
+Bacillus_subtilis	Bacillus subtilis (strain 168)	224308	gapA	P09124	Glyceraldehyde-3-phosphate dehydrogenase 1	335	CAA31434.1	ENA	1008

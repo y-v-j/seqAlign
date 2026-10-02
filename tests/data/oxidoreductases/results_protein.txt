@@ -1,0 +1,630 @@
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+93.7% identity; 97.0% similarity	'GA' score: 2050.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+93.7% identity; 97.0% similarity	'GA' score: 2053.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+94.3% identity; 97.0% similarity	'GA' score: 2065.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+91.6% identity; 94.6% similarity	'GA' score: 2013.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.1% identity; 92.5% similarity	'GA' score: 1897.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+86.0% identity; 93.1% similarity	'GA' score: 1910.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+75.8% identity; 86.3% similarity	'GA' score: 1683.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+72.7% identity; 84.5% similarity	'GA' score: 1649.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+64.2% identity; 78.5% similarity	'GA' score: 1431.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.6% identity; 80.5% similarity	'GA' score: 1496.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.5% identity; 82.8% similarity	'GA' score: 1570.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.7% identity; 83.7% similarity	'GA' score: 1594.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.2% identity; 79.8% similarity	'GA' score: 1438.0
+
+Homo_sapiens GAPDH UniProt:P04406 Glyceraldehyde-3-phosphate    335 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+54.1% identity; 70.4% similarity	'GA' score: 1144.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+97.6% identity; 98.5% similarity	'GA' score: 2133.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+94.9% identity; 98.5% similarity	'GA' score: 2084.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+92.8% identity; 97.0% similarity	'GA' score: 2055.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.3% identity; 93.7% similarity	'GA' score: 1907.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.9% identity; 93.1% similarity	'GA' score: 1900.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+77.5% identity; 87.7% similarity	'GA' score: 1715.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+74.5% identity; 85.3% similarity	'GA' score: 1666.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.5% identity; 79.0% similarity	'GA' score: 1449.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.1% identity; 81.4% similarity	'GA' score: 1492.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.1% identity; 82.5% similarity	'GA' score: 1544.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.7% identity; 83.1% similarity	'GA' score: 1552.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.5% identity; 80.9% similarity	'GA' score: 1476.0
+
+Mus_musculus Gapdh UniProt:P16858 Glyceraldehyde-3-phosphate    333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+55.2% identity; 71.8% similarity	'GA' score: 1174.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+95.2% identity; 98.8% similarity	'GA' score: 2093.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+92.8% identity; 95.8% similarity	'GA' score: 2041.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.0% identity; 93.1% similarity	'GA' score: 1903.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+86.8% identity; 93.4% similarity	'GA' score: 1916.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+77.2% identity; 87.7% similarity	'GA' score: 1709.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+75.4% identity; 85.3% similarity	'GA' score: 1677.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.8% identity; 79.3% similarity	'GA' score: 1455.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.6% identity; 81.7% similarity	'GA' score: 1488.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.0% identity; 82.5% similarity	'GA' score: 1532.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.5% identity; 83.1% similarity	'GA' score: 1541.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.5% identity; 81.2% similarity	'GA' score: 1476.0
+
+Rattus_norvegicus Gapdh UniProt:P04797 Glyceraldehyde-3-phos    333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+55.5% identity; 71.8% similarity	'GA' score: 1177.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+93.1% identity; 97.0% similarity	'GA' score: 2059.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.6% identity; 93.4% similarity	'GA' score: 1919.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+87.1% identity; 93.4% similarity	'GA' score: 1927.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+77.8% identity; 88.3% similarity	'GA' score: 1720.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+73.0% identity; 85.0% similarity	'GA' score: 1632.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.8% identity; 79.0% similarity	'GA' score: 1458.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.4% identity; 81.1% similarity	'GA' score: 1497.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.0% identity; 81.9% similarity	'GA' score: 1521.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.8% identity; 82.5% similarity	'GA' score: 1538.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+66.6% identity; 81.2% similarity	'GA' score: 1469.0
+
+Bos_taurus GAPDH UniProt:P10096 Glyceraldehyde-3-phosphate d    333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+54.3% identity; 71.2% similarity	'GA' score: 1153.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+86.8% identity; 93.4% similarity	'GA' score: 1925.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+87.7% identity; 94.0% similarity	'GA' score: 1948.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+77.8% identity; 87.4% similarity	'GA' score: 1716.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+75.4% identity; 85.3% similarity	'GA' score: 1676.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.3% identity; 79.9% similarity	'GA' score: 1483.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.4% identity; 81.1% similarity	'GA' score: 1491.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.1% identity; 82.8% similarity	'GA' score: 1539.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+70.0% identity; 83.1% similarity	'GA' score: 1562.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.2% identity; 80.9% similarity	'GA' score: 1471.0
+
+Gallus_gallus GAPDH UniProt:P00356 Glyceraldehyde-3-phosphat    333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+53.1% identity; 70.0% similarity	'GA' score: 1124.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+83.8% identity; 92.2% similarity	'GA' score: 1856.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+77.2% identity; 86.8% similarity	'GA' score: 1699.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+75.1% identity; 84.5% similarity	'GA' score: 1645.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.5% identity; 77.8% similarity	'GA' score: 1424.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.4% identity; 80.2% similarity	'GA' score: 1471.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.5% identity; 83.1% similarity	'GA' score: 1519.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.4% identity; 82.5% similarity	'GA' score: 1525.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.8% identity; 81.2% similarity	'GA' score: 1479.0
+
+Xenopus_laevis gapdh UniProt:P51469 Glyceraldehyde-3-phospha    333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+51.3% identity; 71.2% similarity	'GA' score: 1105.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+76.6% identity; 87.1% similarity	'GA' score: 1687.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+75.7% identity; 85.6% similarity	'GA' score: 1661.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.6% identity; 79.0% similarity	'GA' score: 1488.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.4% identity; 81.1% similarity	'GA' score: 1487.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.2% identity; 82.5% similarity	'GA' score: 1522.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.8% identity; 83.4% similarity	'GA' score: 1541.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+68.4% identity; 81.2% similarity	'GA' score: 1481.0
+
+Danio_rerio gapdh UniProt:Q5XJ10 Glyceraldehyde-3-phosphate     333 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+53.4% identity; 69.7% similarity	'GA' score: 1123.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+73.0% identity; 84.5% similarity	'GA' score: 1597.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+63.7% identity; 80.2% similarity	'GA' score: 1420.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.8% identity; 80.5% similarity	'GA' score: 1447.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.1% identity; 81.6% similarity	'GA' score: 1474.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.1% identity; 80.7% similarity	'GA' score: 1478.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+66.3% identity; 81.8% similarity	'GA' score: 1432.0
+
+Drosophila_melanogaster Gapdh1 UniProt:P07486 Glyceraldehyde    332 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+53.1% identity; 70.0% similarity	'GA' score: 1085.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.4% identity; 78.9% similarity	'GA' score: 1437.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.7% identity; 78.7% similarity	'GA' score: 1427.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+66.4% identity; 79.1% similarity	'GA' score: 1466.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+66.7% identity; 80.6% similarity	'GA' score: 1483.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.5% identity; 77.8% similarity	'GA' score: 1388.0
+
+Caenorhabditis_elegans gpd-1 UniProt:P04970 Glyceraldehyde-3    341 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+51.9% identity; 70.6% similarity	'GA' score: 1106.0
+
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa vs.
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+69.2% identity; 80.8% similarity	'GA' score: 1520.0
+
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.0% identity; 80.1% similarity	'GA' score: 1454.0
+
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.6% identity; 80.1% similarity	'GA' score: 1459.0
+
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+67.4% identity; 79.6% similarity	'GA' score: 1439.0
+
+Saccharomyces_cerevisiae TDH2 UniProt:P00358 Glyceraldehyde-    332 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+53.4% identity; 71.2% similarity	'GA' score: 1133.0
+
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa vs.
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.5% identity; 93.8% similarity	'GA' score: 1906.0
+
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+85.0% identity; 93.2% similarity	'GA' score: 1888.0
+
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+64.9% identity; 79.4% similarity	'GA' score: 1402.0
+
+Arabidopsis_thaliana GAPC1 UniProt:P25858 Glyceraldehyde-3-p    338 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+50.3% identity; 68.7% similarity	'GA' score: 1047.0
+
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa vs.
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+92.6% identity; 97.6% similarity	'GA' score: 2058.0
+
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+65.4% identity; 81.1% similarity	'GA' score: 1426.0
+
+Oryza_sativa GAPC1 UniProt:Q0J8A4 Glyceraldehyde-3-phosphate    337 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+50.0% identity; 70.6% similarity	'GA' score: 1061.0
+
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa vs.
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+64.5% identity; 79.3% similarity	'GA' score: 1402.0
+
+Zea_mays GAPC1 UniProt:P08735 Glyceraldehyde-3-phosphate deh    337 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+50.6% identity; 70.3% similarity	'GA' score: 1062.0
+
+Escherichia_coli gapA UniProt:P0A9B2 Glyceraldehyde-3-phosph    331 aa vs.
+Bacillus_subtilis gapA UniProt:P09124 Glyceraldehyde-3-phosp    335 aa
+scoring: BLOSUM50, gap penalties: 12/2, engine: gotoh-affine
+
+55.7% identity; 74.4% similarity	'GA' score: 1251.0
+
