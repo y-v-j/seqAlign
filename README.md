@@ -478,6 +478,7 @@ seqAlign/
 ├── examples/                   # sample FASTA files
 ├── docs/images/                # heatmap screenshots used in this README
 ├── comparison.png              # heatmap of the original examples
+├── LICENSE                     # MIT License
 ├── requirements.txt
 └── pyproject.toml
 ```
@@ -508,6 +509,11 @@ Algorithms and data:
 
 ## License
 
-MIT. See the algorithmic notes above for original-work attribution
-(Myers & Miller, CABIOS 1988, referenced by the original tool). The code in
-this repository is an independent reimplementation.
+seqAlign is released under the [MIT License](LICENSE).
+
+The code in this repository is an independent reimplementation; see the
+algorithmic notes above for original-work attribution (Myers & Miller,
+CABIOS 1988, referenced by the original tool). The bundled scoring matrices
+in `seqalign/data/matrices/` are the standard, publicly distributed NCBI
+tables, and the test sequences come from the public UniProt, ENA and NCBI
+databases.

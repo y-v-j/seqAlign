@@ -9,6 +9,11 @@ description = "Pairwise and all-vs-all global sequence alignment (protein / DNA)
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
 keywords = ["bioinformatics", "sequence alignment", "identity", "similarity", "heatmap", "BLOSUM", "PAM"]
 dependencies = [
     "numpy>=1.21",
