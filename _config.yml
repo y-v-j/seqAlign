@@ -1,0 +1,20 @@
+# GitHub Pages: README.md rendered with the Midnight Ink theme (_layouts/default.html).
+lang: en
+author: Yogesh
+tagline: "Protein and DNA sequence alignment"
+nav:
+  - title: "Screenshots"
+    url: "#screenshots"
+  - title: "Install"
+    url: "#installation"
+  - title: "CLI"
+    url: "#cli-reference"
+license_name: "MIT"
+copyright: "© 2026 Yogesh"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /docs/images/oxidoreductase_protein_heatmap.png
+plugins:
+  - jekyll-seo-tag
